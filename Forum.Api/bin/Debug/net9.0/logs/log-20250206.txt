@@ -1,0 +1,1206 @@
+2025-02-06 00:51:56.467 +03:00 [INF] Starting Load operation.
+2025-02-06 00:51:56.497 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 00:51:57.206 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 00:51:57.207 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 00:51:57.207 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 00:51:57.207 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 00:51:57.207 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 00:51:57.209 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 00:54:00.197 +03:00 [INF] Starting Load operation.
+2025-02-06 00:54:00.227 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 00:54:00.870 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 00:54:00.871 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 00:54:00.871 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 00:54:00.871 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 00:54:00.871 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 00:54:00.872 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 00:54:31.109 +03:00 [INF] Starting Load operation.
+2025-02-06 00:54:31.139 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 00:54:31.722 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 00:54:31.723 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 00:54:31.723 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 00:54:31.723 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 00:54:31.723 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 00:54:31.724 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 01:11:11.739 +03:00 [INF] Starting Load operation.
+2025-02-06 01:11:11.778 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 01:11:12.517 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 01:11:12.520 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 01:11:12.522 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 01:11:12.524 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 01:11:12.525 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 01:11:12.526 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:11:12.528 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:11:12.529 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 01:11:12.531 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 01:11:12.532 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 01:11:12.534 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 01:11:12.535 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 01:11:12.536 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 01:11:12.538 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 01:11:12.539 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 01:11:12.540 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 01:13:05.146 +03:00 [INF] Starting Load operation.
+2025-02-06 01:13:05.190 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 01:13:05.934 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 01:13:05.937 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 01:13:05.938 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 01:13:05.940 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 01:13:05.941 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 01:13:05.942 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:13:05.944 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:13:05.945 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 01:13:05.947 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 01:13:05.948 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 01:13:05.950 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 01:13:05.951 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 01:13:05.953 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 01:13:05.954 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 01:13:05.956 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 01:13:05.957 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 01:56:41.701 +03:00 [INF] Starting Load operation.
+2025-02-06 01:56:41.753 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 01:56:42.603 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 01:56:42.606 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 01:56:42.607 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 01:56:42.609 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 01:56:42.610 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 01:56:42.612 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:56:42.613 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:56:42.615 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 01:56:42.616 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 01:56:42.618 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 01:56:42.619 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 01:56:42.621 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 01:56:42.622 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 01:56:42.624 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 01:56:42.626 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 01:56:42.627 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 01:57:27.465 +03:00 [INF] Starting Load operation.
+2025-02-06 01:57:27.511 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 01:57:28.196 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 01:57:28.198 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 01:57:28.200 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 01:57:28.201 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 01:57:28.203 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 01:57:28.204 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:57:28.206 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 01:57:28.207 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 01:57:28.208 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 01:57:28.210 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 01:57:28.211 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 01:57:28.213 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 01:57:28.214 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 01:57:28.216 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 01:57:28.217 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 01:57:28.219 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:02:55.948 +03:00 [INF] Starting Load operation.
+2025-02-06 02:02:55.999 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:02:56.800 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:02:56.804 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:02:56.805 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:02:56.807 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:02:56.808 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:02:56.810 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:02:56.812 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:02:56.814 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:02:56.815 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:02:56.817 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:02:56.818 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:02:56.820 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:02:56.821 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:02:56.823 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:02:56.824 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:02:56.825 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:12:08.953 +03:00 [INF] Starting Load operation.
+2025-02-06 02:12:08.999 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:12:09.713 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:12:09.716 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:12:09.718 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:12:09.720 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:12:09.721 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:12:09.723 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:12:09.724 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:12:09.726 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:12:09.727 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:12:09.729 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:12:09.730 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:12:09.732 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:12:09.733 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:12:09.735 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:12:09.736 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:12:09.738 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:12:57.861 +03:00 [INF] Starting Load operation.
+2025-02-06 02:12:57.898 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:12:58.536 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:12:58.539 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:12:58.541 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:12:58.542 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:12:58.543 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:12:58.545 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:12:58.546 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:12:58.548 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:12:58.549 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:12:58.551 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:12:58.552 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:12:58.554 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:12:58.555 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:12:58.557 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:12:58.559 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:12:58.560 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:14:16.678 +03:00 [INF] Starting Load operation.
+2025-02-06 02:14:16.734 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:14:17.521 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:14:17.525 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:14:17.526 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:14:17.528 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:14:17.529 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:14:17.531 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:14:17.532 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:14:17.534 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:14:17.535 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:14:17.537 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:14:17.538 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:14:17.540 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:14:17.542 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:14:17.543 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:14:17.545 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:14:17.546 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:19:14.806 +03:00 [INF] Starting Load operation.
+2025-02-06 02:19:14.846 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:19:15.575 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:19:15.577 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:19:15.579 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:19:15.580 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:19:15.582 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:19:15.583 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:19:15.585 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:19:15.586 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:19:15.588 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:19:15.589 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:19:15.590 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:19:15.592 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:19:15.593 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:19:15.595 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:19:15.596 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:19:15.597 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:21:00.148 +03:00 [INF] Starting Load operation.
+2025-02-06 02:21:00.193 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:21:00.965 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:21:00.968 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:21:00.970 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:21:00.971 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:21:00.973 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:21:00.974 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:21:00.976 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:21:00.977 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:21:00.979 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:21:00.980 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:21:00.982 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:21:00.983 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:21:00.985 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:21:00.986 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:21:00.988 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:21:00.989 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:21:58.969 +03:00 [INF] Starting Load operation.
+2025-02-06 02:21:59.007 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:21:59.638 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:21:59.641 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:21:59.642 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:21:59.644 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:21:59.645 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:21:59.647 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:21:59.648 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:21:59.650 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:21:59.651 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:21:59.653 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:21:59.654 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:21:59.656 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:21:59.657 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:21:59.659 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:21:59.660 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:21:59.661 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:24:41.724 +03:00 [INF] Starting Load operation.
+2025-02-06 02:24:41.771 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:24:42.460 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:24:42.463 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:24:42.464 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:24:42.466 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:24:42.467 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:24:42.468 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:24:42.470 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:24:42.471 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:24:42.473 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:24:42.474 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:24:42.476 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:24:42.477 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:24:42.479 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:24:42.480 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:24:42.481 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:24:42.483 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:27:37.147 +03:00 [INF] Starting Load operation.
+2025-02-06 02:27:37.198 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:27:37.948 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:27:37.951 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:27:37.953 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:27:37.954 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:27:37.956 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:27:37.957 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:27:37.959 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:27:37.960 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:27:37.962 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:27:37.963 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:27:37.965 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:27:37.966 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:27:37.968 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:27:37.969 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:27:37.971 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:27:37.973 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:29:31.561 +03:00 [INF] Starting Load operation.
+2025-02-06 02:29:31.601 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:29:32.326 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:29:32.329 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:29:32.330 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:29:32.332 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:29:32.333 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:29:32.335 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:29:32.336 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:29:32.338 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:29:32.339 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:29:32.341 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:29:32.342 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:29:32.344 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:29:32.345 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:29:32.346 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:29:32.348 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:29:32.349 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:30:45.445 +03:00 [INF] Starting Load operation.
+2025-02-06 02:30:45.491 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:30:46.215 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:30:46.218 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:30:46.220 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:30:46.221 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:30:46.223 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:30:46.224 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:30:46.226 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:30:46.227 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:30:46.229 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:30:46.230 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:30:46.231 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:30:46.233 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:30:46.235 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:30:46.236 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:30:46.237 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:30:46.239 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:32:54.921 +03:00 [INF] Starting Load operation.
+2025-02-06 02:32:54.970 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:32:55.773 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:32:55.776 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:32:55.778 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:32:55.779 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:32:55.781 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:32:55.782 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:32:55.784 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:32:55.787 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:32:55.789 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:32:55.790 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:32:55.792 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:32:55.793 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:32:55.795 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:32:55.796 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:32:55.798 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:32:55.799 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:33:47.851 +03:00 [INF] Starting Load operation.
+2025-02-06 02:33:47.889 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:33:48.554 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:33:48.557 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:33:48.559 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:33:48.560 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:33:48.562 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:33:48.563 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:33:48.564 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:33:48.566 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:33:48.567 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:33:48.569 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:33:48.570 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:33:48.572 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:33:48.573 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:33:48.575 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:33:48.576 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:33:48.578 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:34:32.151 +03:00 [INF] Starting Load operation.
+2025-02-06 02:34:32.190 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:34:32.930 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:34:32.933 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:34:32.935 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:34:32.936 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:34:32.938 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:34:32.939 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:34:32.940 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:34:32.942 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:34:32.943 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:34:32.945 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:34:32.946 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:34:32.947 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:34:32.949 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:34:32.950 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:34:32.952 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:34:32.953 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:45:14.300 +03:00 [INF] Starting Load operation.
+2025-02-06 02:45:14.343 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:45:15.096 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:45:15.099 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:45:15.101 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:45:15.102 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:45:15.104 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:45:15.106 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:45:15.108 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:45:15.109 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:45:15.111 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:45:15.112 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:45:15.114 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:45:15.115 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:45:15.117 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:45:15.118 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:45:15.120 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:45:15.121 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:45:59.308 +03:00 [INF] Starting Load operation.
+2025-02-06 02:45:59.346 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:45:59.970 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:45:59.973 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:45:59.975 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:45:59.976 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:45:59.978 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:45:59.979 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:45:59.981 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:45:59.982 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:45:59.984 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:45:59.985 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:45:59.987 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:45:59.988 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:45:59.990 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:45:59.991 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:45:59.993 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:45:59.994 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:50:02.049 +03:00 [INF] Starting Load operation.
+2025-02-06 02:50:02.088 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:50:02.828 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:50:02.831 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:50:02.833 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:50:02.834 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:50:02.835 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:50:02.837 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:50:02.838 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:50:02.840 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:50:02.841 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:50:02.843 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:50:02.844 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:50:02.845 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:50:02.847 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:50:02.849 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:50:02.850 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:50:02.852 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:50:49.763 +03:00 [INF] Starting Load operation.
+2025-02-06 02:50:49.804 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:50:50.548 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:50:50.551 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:50:50.552 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:50:50.554 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:50:50.555 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:50:50.557 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:50:50.558 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:50:50.560 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:50:50.561 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:50:50.563 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:50:50.564 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:50:50.566 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:50:50.567 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:50:50.569 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:50:50.570 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:50:50.572 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 02:56:48.580 +03:00 [INF] Starting Load operation.
+2025-02-06 02:56:48.618 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 02:56:49.332 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 02:56:49.336 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 02:56:49.338 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 02:56:49.339 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 02:56:49.340 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 02:56:49.341 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:56:49.343 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 02:56:49.344 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 02:56:49.346 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 02:56:49.347 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 02:56:49.349 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 02:56:49.350 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 02:56:49.352 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 02:56:49.353 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 02:56:49.354 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 02:56:49.355 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:01:38.248 +03:00 [INF] Starting Load operation.
+2025-02-06 03:01:38.289 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:01:39.015 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:01:39.018 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:01:39.019 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:01:39.021 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:01:39.022 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:01:39.024 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:01:39.025 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:01:39.027 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:01:39.028 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:01:39.030 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:01:39.031 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:01:39.033 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:01:39.034 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:01:39.036 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:01:39.037 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:01:39.038 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:03:49.152 +03:00 [INF] Starting Load operation.
+2025-02-06 03:03:49.191 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:03:49.934 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:03:49.937 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:03:49.939 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:03:49.940 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:03:49.942 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:03:49.943 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:03:49.945 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:03:49.946 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:03:49.948 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:03:49.949 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:03:49.951 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:03:49.952 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:03:49.954 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:03:49.955 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:03:49.965 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:03:49.967 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:06:49.110 +03:00 [INF] Starting Load operation.
+2025-02-06 03:06:49.150 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:06:49.901 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:06:49.904 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:06:49.905 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:06:49.907 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:06:49.908 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:06:49.910 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:06:49.911 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:06:49.913 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:06:49.914 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:06:49.916 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:06:49.917 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:06:49.919 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:06:49.920 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:06:49.922 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:06:49.923 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:06:49.925 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:25:12.744 +03:00 [INF] Starting Load operation.
+2025-02-06 03:25:12.825 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:25:13.748 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:25:13.751 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:25:13.753 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:25:13.754 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:25:13.755 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:25:13.757 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:25:13.758 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:25:13.760 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:25:13.762 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:25:13.763 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:25:13.764 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:25:13.766 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:25:13.767 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:25:13.769 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:25:13.770 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:25:13.772 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:26:01.846 +03:00 [INF] Starting Load operation.
+2025-02-06 03:26:01.994 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:26:02.981 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:26:02.984 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:26:02.986 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:26:02.987 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:26:02.989 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:26:02.991 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:26:02.993 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:26:02.994 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:26:02.996 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:26:02.997 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:26:02.999 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:26:03.001 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:26:03.002 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:26:03.005 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:26:03.006 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:26:03.009 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:29:06.966 +03:00 [INF] Starting Load operation.
+2025-02-06 03:29:07.015 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:29:07.790 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:29:07.793 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:29:07.795 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:29:07.797 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:29:07.798 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:29:07.799 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:29:07.801 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:29:07.802 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:29:07.804 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:29:07.806 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:29:07.807 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:29:07.809 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:29:07.810 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:29:07.812 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:29:07.813 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:29:07.815 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:29:55.540 +03:00 [INF] Starting Load operation.
+2025-02-06 03:29:55.609 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:29:56.321 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:29:56.325 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:29:56.327 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:29:56.329 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:29:56.330 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:29:56.331 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:29:56.333 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:29:56.334 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:29:56.336 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:29:56.337 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:29:56.339 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:29:56.340 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:29:56.342 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:29:56.343 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:29:56.345 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:29:56.346 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:32:02.871 +03:00 [INF] Starting Load operation.
+2025-02-06 03:32:02.910 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:32:03.709 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:32:03.712 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:32:03.714 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:32:03.716 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:32:03.717 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:32:03.719 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:32:03.720 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:32:03.722 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:32:03.723 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:32:03.724 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:32:03.726 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:32:03.727 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:32:03.729 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:32:03.731 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:32:03.732 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:32:03.734 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:35:42.145 +03:00 [INF] Starting Load operation.
+2025-02-06 03:35:42.185 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:35:42.909 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:35:42.912 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:35:42.914 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:35:42.915 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:35:42.917 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:35:42.918 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:35:42.920 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:35:42.921 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:35:42.923 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:35:42.924 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:35:42.926 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:35:42.927 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:35:42.929 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:35:42.930 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:35:42.932 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:35:42.933 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:51:28.362 +03:00 [INF] Starting Load operation.
+2025-02-06 03:51:28.403 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:51:29.167 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:51:29.170 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:51:29.171 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:51:29.173 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:51:29.174 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:51:29.176 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:51:29.178 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:51:29.179 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:51:29.181 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:51:29.182 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:51:29.184 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:51:29.185 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:51:29.187 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:51:29.188 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:51:29.190 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:51:29.191 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:55:50.736 +03:00 [INF] Starting Load operation.
+2025-02-06 03:55:50.776 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:55:51.481 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:55:51.484 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:55:51.486 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:55:51.487 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:55:51.489 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:55:51.491 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:55:51.492 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:55:51.493 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:55:51.495 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:55:51.497 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:55:51.498 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:55:51.499 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:55:51.499 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:55:51.500 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:55:51.501 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:55:51.502 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 03:58:55.168 +03:00 [INF] Starting Load operation.
+2025-02-06 03:58:55.209 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 03:58:56.039 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 03:58:56.042 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 03:58:56.043 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 03:58:56.045 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 03:58:56.046 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 03:58:56.048 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:58:56.049 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 03:58:56.051 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 03:58:56.052 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 03:58:56.054 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 03:58:56.055 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 03:58:56.057 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 03:58:56.058 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 03:58:56.060 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 03:58:56.061 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 03:58:56.062 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 04:03:25.809 +03:00 [INF] Starting Load operation.
+2025-02-06 04:03:25.853 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 04:03:26.667 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 04:03:26.670 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 04:03:26.671 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 04:03:26.673 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 04:03:26.675 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 04:03:26.676 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 04:03:26.678 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 04:03:26.679 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 04:03:26.681 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 04:03:26.682 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 04:03:26.684 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 04:03:26.685 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 04:03:26.687 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 04:03:26.688 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 04:03:26.690 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 04:03:26.692 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:05:10.813 +03:00 [INF] Starting Load operation.
+2025-02-06 14:05:10.870 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:05:11.702 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:05:11.706 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:05:11.707 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:05:11.708 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:05:11.710 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:05:11.711 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:05:11.713 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:05:11.714 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:05:11.716 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:05:11.717 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:05:11.718 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:05:11.720 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:05:11.721 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:05:11.723 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:05:11.724 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:05:11.726 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:17:49.651 +03:00 [INF] Starting Load operation.
+2025-02-06 14:17:49.695 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:17:50.518 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:17:50.521 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:17:50.522 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:17:50.524 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:17:50.525 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:17:50.527 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:17:50.528 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:17:50.530 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:17:50.531 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:17:50.533 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:17:50.534 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:17:50.535 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:17:50.537 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:17:50.538 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:17:50.540 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:17:50.542 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:18:42.426 +03:00 [INF] Starting Load operation.
+2025-02-06 14:18:42.478 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:18:43.260 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:18:43.264 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:18:43.265 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:18:43.267 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:18:43.268 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:18:43.270 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:18:43.271 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:18:43.273 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:18:43.274 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:18:43.276 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:18:43.277 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:18:43.279 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:18:43.281 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:18:43.282 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:18:43.284 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:18:43.285 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:22:42.635 +03:00 [INF] Starting Load operation.
+2025-02-06 14:22:42.673 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:22:43.404 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:22:43.407 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:22:43.409 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:22:43.410 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:22:43.412 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:22:43.413 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:22:43.415 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:22:43.416 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:22:43.418 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:22:43.419 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:22:43.421 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:22:43.422 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:22:43.424 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:22:43.425 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:22:43.427 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:22:43.428 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:23:20.863 +03:00 [INF] Starting Load operation.
+2025-02-06 14:23:20.901 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:23:21.543 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:23:21.546 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:23:21.547 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:23:21.549 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:23:21.550 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:23:21.552 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:23:21.553 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:23:21.554 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:23:21.556 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:23:21.557 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:23:21.559 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:23:21.560 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:23:21.562 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:23:21.563 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:23:21.565 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:23:21.566 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:25:32.043 +03:00 [INF] Starting Load operation.
+2025-02-06 14:25:32.081 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:25:32.955 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:25:32.959 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:25:32.960 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:25:32.962 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:25:32.963 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:25:32.964 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:25:32.966 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:25:32.967 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:25:32.969 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:25:32.970 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:25:32.972 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:25:32.973 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:25:32.975 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:25:32.976 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:25:32.978 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:25:32.979 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:30:42.353 +03:00 [INF] Starting Load operation.
+2025-02-06 14:30:42.418 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:30:43.344 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:30:43.347 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:30:43.349 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:30:43.350 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:30:43.352 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:30:43.353 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:30:43.356 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:30:43.359 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:30:43.360 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:30:43.362 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:30:43.363 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:30:43.365 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:30:43.366 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:30:43.368 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:30:43.369 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:30:43.371 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:37:54.720 +03:00 [INF] Starting Load operation.
+2025-02-06 14:37:54.763 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:37:55.575 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:37:55.578 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:37:55.579 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:37:55.581 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:37:55.582 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:37:55.584 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:37:55.585 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:37:55.587 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:37:55.588 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:37:55.590 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:37:55.591 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:37:55.592 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:37:55.594 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:37:55.596 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:37:55.597 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:37:55.598 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:40:01.770 +03:00 [INF] Starting Load operation.
+2025-02-06 14:40:01.814 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:40:02.589 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:40:02.592 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:40:02.593 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:40:02.595 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:40:02.596 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:40:02.598 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:40:02.599 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:40:02.601 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:40:02.602 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:40:02.603 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:40:02.605 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:40:02.607 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:40:02.608 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:40:02.609 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:40:02.611 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:40:02.612 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:40:53.027 +03:00 [INF] Starting Load operation.
+2025-02-06 14:40:53.065 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:40:53.654 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:40:53.657 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:40:53.658 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:40:53.660 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:40:53.661 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:40:53.663 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:40:53.664 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:40:53.666 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:40:53.667 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:40:53.669 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:40:53.670 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:40:53.672 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:40:53.673 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:40:53.675 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:40:53.676 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:40:53.678 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:42:29.949 +03:00 [INF] Starting Load operation.
+2025-02-06 14:42:30.003 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:42:30.800 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:42:30.803 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:42:30.804 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:42:30.806 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:42:30.807 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:42:30.809 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:42:30.810 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:42:30.812 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:42:30.813 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:42:30.815 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:42:30.816 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:42:30.818 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:42:30.819 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:42:30.821 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:42:30.822 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:42:30.824 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:44:15.903 +03:00 [INF] Starting Load operation.
+2025-02-06 14:44:15.955 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:44:16.847 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:44:16.850 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:44:16.852 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:44:16.853 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:44:16.855 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:44:16.856 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:44:16.858 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:44:16.859 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:44:16.861 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:44:16.862 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:44:16.863 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:44:16.865 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:44:16.866 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:44:16.868 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:44:16.869 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:44:16.871 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 14:44:44.554 +03:00 [INF] Starting Load operation.
+2025-02-06 14:44:44.597 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 14:44:45.307 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 14:44:45.310 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 14:44:45.311 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 14:44:45.313 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 14:44:45.314 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 14:44:45.316 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:44:45.317 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 14:44:45.319 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 14:44:45.320 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 14:44:45.322 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 14:44:45.323 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 14:44:45.325 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 14:44:45.326 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 14:44:45.328 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 14:44:45.329 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 14:44:45.331 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:06:19.742 +03:00 [INF] Starting Load operation.
+2025-02-06 15:06:19.810 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:06:21.034 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:06:21.037 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:06:21.038 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:06:21.040 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:06:21.041 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:06:21.043 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:06:21.044 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:06:21.046 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:06:21.047 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:06:21.049 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:06:21.051 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:06:21.052 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:06:21.054 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:06:21.055 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:06:21.057 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:06:21.059 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:09:57.870 +03:00 [INF] Starting Load operation.
+2025-02-06 15:09:57.912 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:09:58.627 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:09:58.630 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:09:58.631 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:09:58.633 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:09:58.634 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:09:58.636 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:09:58.637 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:09:58.638 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:09:58.640 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:09:58.641 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:09:58.643 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:09:58.644 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:09:58.646 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:09:58.647 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:09:58.649 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:09:58.650 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:19:55.904 +03:00 [INF] Starting Load operation.
+2025-02-06 15:19:55.948 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:19:56.725 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:19:56.728 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:19:56.729 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:19:56.731 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:19:56.732 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:19:56.734 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:19:56.735 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:19:56.737 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:19:56.738 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:19:56.740 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:19:56.741 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:19:56.743 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:19:56.744 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:19:56.746 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:19:56.747 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:19:56.749 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:21:01.471 +03:00 [INF] Starting Load operation.
+2025-02-06 15:21:01.523 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:21:02.448 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:21:02.452 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:21:02.454 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:21:02.456 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:21:02.457 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:21:02.459 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:21:02.460 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:21:02.462 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:21:02.463 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:21:02.464 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:21:02.466 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:21:02.468 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:21:02.470 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:21:02.471 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:21:02.473 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:21:02.474 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:22:43.583 +03:00 [INF] Starting Load operation.
+2025-02-06 15:22:43.622 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:22:44.342 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:22:44.345 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:22:44.346 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:22:44.347 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:22:44.349 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:22:44.350 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:22:44.352 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:22:44.353 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:22:44.356 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:22:44.359 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:22:44.363 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:22:44.367 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:22:44.371 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:22:44.373 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:22:44.375 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:22:44.376 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:25:38.674 +03:00 [INF] Starting Load operation.
+2025-02-06 15:25:38.716 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:25:39.501 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:25:39.504 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:25:39.506 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:25:39.507 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:25:39.509 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:25:39.510 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:25:39.512 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:25:39.513 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:25:39.514 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:25:39.516 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:25:39.517 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:25:39.519 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:25:39.520 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:25:39.522 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:25:39.523 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:25:39.525 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:35:29.282 +03:00 [INF] Starting Load operation.
+2025-02-06 15:35:29.321 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:35:30.117 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:35:30.120 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:35:30.121 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:35:30.123 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:35:30.124 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:35:30.126 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:35:30.127 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:35:30.129 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:35:30.130 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:35:30.132 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:35:30.133 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:35:30.135 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:35:30.136 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:35:30.138 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:35:30.139 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:35:30.141 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:36:00.106 +03:00 [INF] Starting Load operation.
+2025-02-06 15:36:00.149 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:36:00.819 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:36:00.823 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:36:00.826 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:36:00.828 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:36:00.829 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:36:00.831 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:36:00.833 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:36:00.834 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:36:00.836 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:36:00.837 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:36:00.839 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:36:00.841 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:36:00.842 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:36:00.844 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:36:00.845 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:36:00.847 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:37:49.114 +03:00 [INF] Starting Load operation.
+2025-02-06 15:37:49.155 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:37:49.896 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:37:49.899 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:37:49.900 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:37:49.902 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:37:49.904 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:37:49.905 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:37:49.907 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:37:49.908 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:37:49.910 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:37:49.911 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:37:49.912 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:37:49.914 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:37:49.915 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:37:49.917 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:37:49.918 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:37:49.920 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:40:05.040 +03:00 [INF] Starting Load operation.
+2025-02-06 15:40:05.080 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:40:05.806 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:40:05.809 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:40:05.811 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:40:05.812 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:40:05.814 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:40:05.815 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:40:05.817 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:40:05.818 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:40:05.820 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:40:05.821 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:40:05.823 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:40:05.825 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:40:05.826 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:40:05.828 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:40:05.830 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:40:05.831 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:41:16.002 +03:00 [INF] Starting Load operation.
+2025-02-06 15:41:16.048 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:41:17.154 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:41:17.157 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:41:17.159 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:41:17.160 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:41:17.162 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:41:17.163 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:41:17.165 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:41:17.166 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:41:17.168 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:41:17.169 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:41:17.171 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:41:17.172 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:41:17.174 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:41:17.175 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:41:17.177 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:41:17.178 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:55:20.939 +03:00 [INF] Starting Load operation.
+2025-02-06 15:55:20.977 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:55:21.722 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:55:21.725 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:55:21.726 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:55:21.728 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:55:21.729 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:55:21.731 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:55:21.732 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:55:21.734 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:55:21.735 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:55:21.737 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:55:21.738 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:55:21.740 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:55:21.741 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:55:21.743 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:55:21.744 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:55:21.746 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:56:23.255 +03:00 [INF] Starting Load operation.
+2025-02-06 15:56:23.297 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:56:24.104 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:56:24.107 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:56:24.108 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:56:24.109 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:56:24.111 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:56:24.112 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:56:24.114 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:56:24.115 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:56:24.117 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:56:24.118 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:56:24.120 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:56:24.121 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:56:24.123 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:56:24.124 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:56:24.126 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:56:24.127 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 15:58:36.724 +03:00 [INF] Starting Load operation.
+2025-02-06 15:58:36.775 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 15:58:37.547 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 15:58:37.552 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 15:58:37.554 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 15:58:37.556 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 15:58:37.558 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 15:58:37.560 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:58:37.562 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 15:58:37.564 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 15:58:37.566 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 15:58:37.568 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 15:58:37.569 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 15:58:37.571 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 15:58:37.572 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 15:58:37.574 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 15:58:37.576 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 15:58:37.578 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq
+2025-02-06 16:35:09.782 +03:00 [INF] Starting Load operation.
+2025-02-06 16:35:09.821 +03:00 [INF] Retrieving secret from SecretsManager.
+2025-02-06 16:35:10.522 +03:00 [INF] MemoryCollection Key: AllowedHosts, Value: *
+2025-02-06 16:35:10.525 +03:00 [INF] MemoryCollection Key: Jwt:SecretKey, Value: dGhpcyBpcyBhIHZlcnkgc3BlY2lhbCBkZXNrdXAgc2VjcmV0IGtleSBmb3IgSFIwX1JZ
+2025-02-06 16:35:10.526 +03:00 [INF] MemoryCollection Key: Jwt:Audience, Value: MyAppAudience
+2025-02-06 16:35:10.527 +03:00 [INF] MemoryCollection Key: Jwt:Issuer, Value: MyAppIssuer
+2025-02-06 16:35:10.529 +03:00 [INF] MemoryCollection Key: S3:BucketName, Value: aspconnectfilesstoragebucket
+2025-02-06 16:35:10.530 +03:00 [INF] MemoryCollection Key: ConnectionStrings:IdentityDbConnection, Value: Host=test01.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 16:35:10.531 +03:00 [INF] MemoryCollection Key: ConnectionStrings:ProfileDbConnection, Value: Host=profiledb.cv220s2yybej.eu-north-1.rds.amazonaws.com;Port=5432;Username=postgres;Password=Berkayhuz16!;Database=postgres;
+2025-02-06 16:35:10.533 +03:00 [INF] MemoryCollection Key: MongoDbSettings:ConnectionString, Value: mongodb://localhost:27017
+2025-02-06 16:35:10.534 +03:00 [INF] MemoryCollection Key: MongoDbSettings:DatabaseName, Value: feeddb
+2025-02-06 16:35:10.535 +03:00 [INF] MemoryCollection Key: MongoDbSettings:CollectionName, Value: forum
+2025-02-06 16:35:10.537 +03:00 [INF] MemoryCollection Key: MailSettings:Host, Value: email-smtp.eu-north-1.amazonaws.com
+2025-02-06 16:35:10.538 +03:00 [INF] MemoryCollection Key: MailSettings:Port, Value: 587
+2025-02-06 16:35:10.540 +03:00 [INF] MemoryCollection Key: MailSettings:DisplayName, Value: Berkay Huz
+2025-02-06 16:35:10.541 +03:00 [INF] MemoryCollection Key: MailSettings:Mail, Value: no-reply@berkayhuz.com
+2025-02-06 16:35:10.542 +03:00 [INF] MemoryCollection Key: MailSettings:Username, Value: AKIA42PHH2NY7CGWRINA
+2025-02-06 16:35:10.544 +03:00 [INF] MemoryCollection Key: MailSettings:Password, Value: BMDTcsdeVPiYYXs+Sd9WjSLJbgsJmGH5d0a6/axb0Hwq

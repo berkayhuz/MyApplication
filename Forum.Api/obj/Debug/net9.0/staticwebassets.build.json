@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bLX7VK57HVrBlFZr/a0SlpveFi9hqdyMFx8wVtMoUGw=",
+  "Source": "Forum.Api",
+  "BasePath": "_content/Forum.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Forum.Domain\Forum.Domain.csproj" />
+		<ProjectReference Include="..\Forum.Infrastructure\Forum.Infrastructure.csproj" />
+		<ProjectReference Include="..\Forum.Packages\Forum.Packages.csproj" />
+		<ProjectReference Include="..\Forum.Shared\Forum.Shared.csproj" />
+	</ItemGroup>
+
+</Project>
